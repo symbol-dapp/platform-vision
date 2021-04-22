@@ -6,6 +6,10 @@
 
 Enable developers to build Dapp applications faster to prove their business hypothesis.
 
+## [Why do I do this? Check it here](./Why.md)
+
+----
+
 ## How do we envision this?
 
 ### Milestone 1. _Enabling the Dapps creation_
