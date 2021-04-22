@@ -90,7 +90,7 @@ Thinks improved :smile:. Today we have:
 
 But we still lack of tooling for fast innovation in terms of Dapps in Symbol :thinking:
 
-That's why I want to continue pursuing my vision of enabling fast innovation creating the proper tooling with the all knowledge I have today after 5 years following Blockchain Ecosystem and in specific Symbol Blockchain.
+That's why I want to continue pursuing my vision of __enabling fast innovation creating the proper tooling__ with the all knowledge I have today after 5 years following Blockchain Ecosystem and in specific Symbol Blockchain.
 
 How?
 
